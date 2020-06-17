@@ -3,6 +3,10 @@
     color: #e9812e !important;
 }
 
+.bg-qocrepe{
+    background-color:  rgba(250, 248, 246, 0.5);
+}
+
 .coverVideo{
     height: 90vh;
     width: 100%;
